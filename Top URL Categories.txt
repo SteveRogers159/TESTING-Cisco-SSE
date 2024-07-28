@@ -1,0 +1,223 @@
+Top URL Categories
+Top URL Classes
+199.2 M
+195.8 M
+13.3 M
+5.3 M
+138.9 K
+89.8 K
+1.9 K
+Bandwidth Loss
+Business Use
+General Surfing
+Productivity Loss
+Privacy Risk
+Adv. Security Risk
+Legal Liability
+
+Top URL Super Categories
+196.1 M
+123.3 M
+51.7 M
+19.4 M
+12.8 M
+4.4 M
+1.6 M
+1.5 M
+1135.1 K
+714.9 K
+283.5 K
+240.7 K
+138.9 K
+124.8 K
+78.1 K
+55.7 K
+55.7 K
+53.7 K
+
+
+User-Defined
+Information Technology
+Business and Economy
+Internet Communication
+Miscellaneous
+Society and Lifestyle
+News and Media
+Entertainment/Recreation
+Education
+Shopping and Auctions
+Travel
+Job/Employment Search
+Security
+Government and Politics
+Health
+Sports
+Special Interests/Social Organizations
+Vehicles
+
+
+Games 17.6 K
+Illegal or Questionable 1.0 K
+Gambling 654
+Religion 415
+Adult Material 254
+Social and Family Issues 24
+
+
+Top URL Categories
+87.4 M
+79.9 M
+38.6 M
+24.9 M
+24.6 M
+18.5 M
+17.6 M
+16.0 M
+15.0 M
+12.8 M
+11.8 M
+6.7 M
+6.6 M
+6.2 M
+5.5 M
+4.2 M
+4.2 M
+3.7 M
+Operating System and Software Updates
+MICROSOFT URL
+SSL-Bypass
+Corporate Marketing
+Professional Services
+Web Search
+SSL-No-Authentication
+CORPORATE APPS
+LTIM
+Miscellaneous or Unknown
+MICROSOFT DEFENDER URL
+CDN
+Webmail
+CITI FILE TYPE
+Internet Services
+Social Networking
+Zscaler Proxy IPs
+Advertising
+
+Top URL Categories
+
+Allow Upload-All 3.3 M
+CITI WHITELIST URL 3.1 M
+Other Information Technology 3.0 M
+CITI SSL 2.6 M
+Web Conferencing 1.7 M
+News and Media 1.6 M
+FileHost 1448.9 K
+Video Streaming 1234.7 K
+Portals 1200.9 K
+Online Chat 1092.6 K
+Online Trading & Brokerage 973.2 K
+Allow Executables-All 933.2 K
+Other Business and Economy 744.7 K
+Generative AI and ML Applications 640.1 K
+Online Shopping 611.2 K
+Finance 514.4 K
+DNS Over HTTPS Services 454.7 K
+Continuing Education/Colleges 367.2 K
+
+Top URL Categories
+
+Science/Tech 302.6 K
+Other Education 283.9 K
+Travel 283.5 K
+Job/Employment Search 240.7 K
+Allow Upload-Group 228.6 K
+Browser-Exception 226.4 K
+MICROSOFT TEAMS 223.8 K
+Web Host 207.7 K
+Allow-URLs 191.7 K
+Television/Movies 191.3 K
+Discussion Forums 187.4 K
+Dining/Restaurant 184.2 K
+VCC VERIZON CONTACT CENTER 162.3 K
+Reference Sites 151.7 K
+Custom Encrypted Content 137.9 K
+Government 121.9 K
+Image Host 102.9 K
+Real Estate 100.5 K
+Blogs 97.7 K
+Malicious Content 88.2 K
+Health 78.1 K
+Sports 55.7 K
+Special Interests/Social Organizations 55.7 K
+Vehicles 53.7 K
+Entertainment 53.3 K
+Music and Audio Streaming 42.2 K
+SSL VPN-VM-VDI 34.6 K
+History 24.7 K
+Online and Other Games 17.6 K
+Classifieds 17.2 K
+BLOCK URL AS PER INFOSEC SOC 10.0 K
+General AI and ML Applications 10.0 K
+Shareware Download 9.7 K
+Other Society and Lifestyle 9.0 K
+Translators 8.4 K
+moengage URL 7.9 K
+
+Hobbies/Leisure 7.6 K
+Downloads-All 7.2 K
+K-12 5.0 K
+Remote Access Tools 4.7 K
+Art/Culture 3.8 K
+SSL-Bypass-Group 2.8 K
+Other Government and Politics 2.7 K
+Online Auctions 2.6 K
+COMMON PROJECTS ALLOW 1.5 K
+File Convertors 1.2 K
+Anonymizer 923
+Spyware/Adware 877
+Adware/Spyware Sites 840
+Gambling 654
+Phishing 642
+Other Shopping and Auctions 622
+Non Categorizable 504
+Other Entertainment/Recreation 484
+Browser-Extensions 394
+Radio 259
+Traditional Religion 248
+Pornography 217
+Politics 206
+Other Internet Communication 177
+Peer-to-Peer Site 157
+Alt/New Age 143
+CITI TRAINING 137
+Alcohol/Tobacco 118
+Suspicious Destination 89
+GitHubURLExclude_DLPPolicy 83
+CITI WEBEX 67
+Lifestyle 65
+Questionable 52
+Insurance 49
+Safe Search Engine 46
+Copyright Infringement 40
+Blocked Sites 30
+Inspect SSL 29
+Cross-site Scripting 29
+Adult Themes 26
+Other Religion 24
+Other Security 22
+Dynamic DNS Host 19
+Family Issues 17
+Newly Registered and Observed Domains 9
+Other Miscellaneous 9
+BUNDUQ 7
+MICROSOFT SQL DB SERVER 6
+AMAZON AWS and WORKSPACE 6
+Military 5
+Nudity 4
+Social Issues 4
+CITI ORACLE CLOUD 4
+Social Networking Adult 3
+Body Art 3
+Other Social and Family Issues 3
+Remove Browser isolation for Specific URL 2
+Other Adult Material 1
+
